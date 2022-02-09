@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to GitHub!"
 ---
-GO APAC 
+APAC 
 Use the left arrow to go back!
